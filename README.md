@@ -74,7 +74,6 @@ To install the पवित्र OS Plymouth theme, follow these steps:
 ## Troubleshooting
 - **Theme Not Displaying Properly**: Ensure that the image file paths are correctly set in `pavitraos.script` and that the image files exist in the theme directory (`/usr/share/plymouth/themes/pavitraos/`).
 - **Black Screen on Boot**: Check that Plymouth is installed and configured correctly. You can re-run `update-initramfs -u` to update the configuration.
-- **Spinning Animation Issues**: If the spinner isn’t centered, verify the positioning code in `pavitraos.script`.
 
 ---
 
