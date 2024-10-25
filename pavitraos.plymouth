@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Pavitra OS
+Description=Custom theme for Pavitra OS
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/pavitraos
+ScriptFile=/usr/share/plymouth/themes/pavitraos/pavitraos.script
